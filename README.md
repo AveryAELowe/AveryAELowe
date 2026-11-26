@@ -38,4 +38,4 @@ This portfolio is under development and will feature independent demonstrations 
 ## Connect
 
 [GitHub](https://github.com/AveryAELowe)
-[LinkedIn](https://www.linkedin.com/in/avery-lowe-23333a327/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base)_contact_details%3BPazfYcYRTS%2BZ8C3ff8TXHw%3D%3D
+[LinkedIn](https://www.linkedin.com/in/avery-lowe-23333a327/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPazfYcYRTS%2BZ8C3ff8TXHw%3D%3D)
