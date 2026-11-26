@@ -31,8 +31,6 @@ I believe effective analytics begins with strong leadership: identifying the rig
 
 This portfolio is under development and will feature independent demonstrations of workflow automation, operational analytics, and data-driven decision support.
 
-All public demonstrations will use fictional scenarios and synthetic data.
-
 ## Professional Philosophy
 
 *Technology provides capability. Leadership turns capability into meaningful results.*
@@ -40,3 +38,4 @@ All public demonstrations will use fictional scenarios and synthetic data.
 ## Connect
 
 [GitHub](https://github.com/AveryAELowe)
+[LinkedIn](https://www.linkedin.com/in/avery-lowe-23333a327/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base)_contact_details%3BPazfYcYRTS%2BZ8C3ff8TXHw%3D%3D
