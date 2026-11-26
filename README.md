@@ -1,4 +1,4 @@
-# Hello, I'm Avery Lowe!
+# Hello, I'm Avery!
 
 ### Leadership | Business Strategy | Data Analytics | Operational Innovation
 
