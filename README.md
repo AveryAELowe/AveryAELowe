@@ -18,8 +18,8 @@ I believe effective analytics begins with strong leadership: identifying the rig
 
 ## Education
 
-- **Master of Business Administration (MBA)** — University of Southern Mississippi, Completed
-- **Graduate Studies in Data Analytics** — Seattle Pacific University, In Progress
+- **Master of Business Administration (MBA)** — University of Southern Mississippi
+- **Graduate Studies in Data Analytics** — Seattle Pacific University (In Progress)
 
 ## Technical Skills & Development
 
